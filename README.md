@@ -3,7 +3,7 @@
 
 Hi all,
 
-this is my first repo, covering prototyping files, mainly sketch and framer. As I am sorting out how to best structure the repo, I will update the readme. 
+this is my first repo, covering prototypes and design made with sketch. My work is not only mobile, but this will be a focus. 
 
 Looking fwd to creating sth together. 
 
