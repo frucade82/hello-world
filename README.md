@@ -7,4 +7,3 @@ this is my first repo, covering prototyping files, mainly sketch and framer. As 
 
 Looking fwd to creating sth together. 
 
-Peace. Me. 
