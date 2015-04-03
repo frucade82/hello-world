@@ -3,7 +3,7 @@
 
 Hi all,
 
-this is my first repo, covering prototypes and design made with sketch. My work is not only mobile, but this will be a focus. 
+this repo is covering prototypes and design made with sketch. My work is not only mobile, but this will be a focus. 
 
 Looking fwd to creating sth together. 
 
